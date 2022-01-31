@@ -1,2 +1,2 @@
 # KCS-DIC-DOC-Q
-Stream DIC, DOC and Q data 
+Stream concentration DIC and DOC data as well as discharge data collected within the Krycklan Catchment Study
